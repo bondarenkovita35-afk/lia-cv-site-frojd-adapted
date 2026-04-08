@@ -1,3 +1,4 @@
+https://bondarenkovita35-afk.github.io/lia-cv-site-frojd-adapted/
 LIA Portfolio – Fröjd
 
 This package contains a single portfolio project prepared for a LIA application.
